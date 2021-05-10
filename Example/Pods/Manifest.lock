@@ -1,0 +1,16 @@
+PODS:
+  - RGDoneKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - RGDoneKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  RGDoneKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RGDoneKeyboard: 92e040401e14dc03b1be06fb10ff687b72781791
+
+PODFILE CHECKSUM: 688f3a9c3989001dc08b2a29358d4e43edc4d0ba
+
+COCOAPODS: 1.10.0
